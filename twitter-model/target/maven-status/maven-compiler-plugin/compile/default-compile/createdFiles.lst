@@ -1,0 +1,5 @@
+com/twitter/model/dto/FollowUserRequest.class
+com/twitter/model/dao/Follower.class
+com/twitter/model/dto/RestApiResponse.class
+com/twitter/model/dao/Message.class
+com/twitter/model/dto/MessageRequest.class

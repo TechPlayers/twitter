@@ -1,0 +1,5 @@
+com/twitter/api/config/BaseConfig.class
+com/twitter/api/controller/FollowerRestApi.class
+com/twitter/api/config/SwaggerConfig.class
+com/twitter/api/TwitterApiApplication.class
+com/twitter/api/controller/MessageRestApi.class
